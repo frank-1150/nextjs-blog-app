@@ -45,8 +45,17 @@
 
 .listItem {
   margin: 0 0 1.25rem;
+  display: flex;
+  padding: 1rem;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .lightText {
   color: #666;
+}
+
+.postImage {
+  margin-left: auto;
 }
